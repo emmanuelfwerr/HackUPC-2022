@@ -1,0 +1,267 @@
+{
+  "build": "py310h9799b42_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=11.1.0",
+    "llvm-openmp >=11.1.0",
+    "numpy",
+    "python >=3.10,<3.11.0a0",
+    "python >=3.10,<3.11.0a0 *_cpython",
+    "python_abi 3.10.* *_cp310",
+    "scikit-learn !=0.22.0",
+    "scipy"
+  ],
+  "extracted_package_dir": "/Users/efwerr/miniforge3/pkgs/lightgbm-3.3.2-py310h9799b42_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/LICENSE",
+    "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/METADATA",
+    "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/RECORD",
+    "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/WHEEL",
+    "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/lightgbm/VERSION.txt",
+    "lib/python3.10/site-packages/lightgbm/__init__.py",
+    "lib/python3.10/site-packages/lightgbm/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/lightgbm/__pycache__/basic.cpython-310.pyc",
+    "lib/python3.10/site-packages/lightgbm/__pycache__/callback.cpython-310.pyc",
+    "lib/python3.10/site-packages/lightgbm/__pycache__/compat.cpython-310.pyc",
+    "lib/python3.10/site-packages/lightgbm/__pycache__/dask.cpython-310.pyc",
+    "lib/python3.10/site-packages/lightgbm/__pycache__/engine.cpython-310.pyc",
+    "lib/python3.10/site-packages/lightgbm/__pycache__/libpath.cpython-310.pyc",
+    "lib/python3.10/site-packages/lightgbm/__pycache__/plotting.cpython-310.pyc",
+    "lib/python3.10/site-packages/lightgbm/__pycache__/sklearn.cpython-310.pyc",
+    "lib/python3.10/site-packages/lightgbm/basic.py",
+    "lib/python3.10/site-packages/lightgbm/callback.py",
+    "lib/python3.10/site-packages/lightgbm/compat.py",
+    "lib/python3.10/site-packages/lightgbm/dask.py",
+    "lib/python3.10/site-packages/lightgbm/engine.py",
+    "lib/python3.10/site-packages/lightgbm/lib_lightgbm.so",
+    "lib/python3.10/site-packages/lightgbm/libpath.py",
+    "lib/python3.10/site-packages/lightgbm/plotting.py",
+    "lib/python3.10/site-packages/lightgbm/sklearn.py"
+  ],
+  "fn": "lightgbm-3.3.2-py310h9799b42_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/efwerr/miniforge3/pkgs/lightgbm-3.3.2-py310h9799b42_0",
+    "type": 1
+  },
+  "md5": "455593e7dd1455ce10a2d1779c488dc9",
+  "name": "lightgbm",
+  "package_tarball_full_path": "/Users/efwerr/miniforge3/pkgs/lightgbm-3.3.2-py310h9799b42_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b5cb7ff7859e7d282d98fc43ab081b0dda5dc659dc3385cf65740c759a7e6a6c",
+        "sha256_in_prefix": "b5cb7ff7859e7d282d98fc43ab081b0dda5dc659dc3385cf65740c759a7e6a6c",
+        "size_in_bytes": 1083
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "b302ff36233e069b3c5190d68ee3756bc92b14d6120aad6acdb100642f368573",
+        "sha256_in_prefix": "b302ff36233e069b3c5190d68ee3756bc92b14d6120aad6acdb100642f368573",
+        "size_in_bytes": 15266
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ab9c2ccf65af4cd6ffba5f54bdbff65e671418a9bd759ce42e994be380f2f765",
+        "sha256_in_prefix": "ab9c2ccf65af4cd6ffba5f54bdbff65e671418a9bd759ce42e994be380f2f765",
+        "size_in_bytes": 1954
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a8473302beaccc2fd0fd433c45644bf875a69b473c6c541192d50ea09a699e2f",
+        "sha256_in_prefix": "a8473302beaccc2fd0fd433c45644bf875a69b473c6c541192d50ea09a699e2f",
+        "size_in_bytes": 96
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm-3.3.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "9f25f81cef1f3d85a827362f5d044d154e066eaac46fa7012a7cee7ca025f74f",
+        "sha256_in_prefix": "9f25f81cef1f3d85a827362f5d044d154e066eaac46fa7012a7cee7ca025f74f",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/VERSION.txt",
+        "path_type": "hardlink",
+        "sha256": "abba5fcd6d1275d62d78e09d88276dcf264d2137f85323ab50eadddcc31aeea9",
+        "sha256_in_prefix": "abba5fcd6d1275d62d78e09d88276dcf264d2137f85323ab50eadddcc31aeea9",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "79488537d444b7d1f0a5ea1487065c930648e2f49c13084f4c635115f7561011",
+        "sha256_in_prefix": "79488537d444b7d1f0a5ea1487065c930648e2f49c13084f4c635115f7561011",
+        "size_in_bytes": 1390
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d23d3d600ac2fe33b5f51ab3360cee719796b203374af0223040191c53b33297",
+        "sha256_in_prefix": "d23d3d600ac2fe33b5f51ab3360cee719796b203374af0223040191c53b33297",
+        "size_in_bytes": 1420
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/__pycache__/basic.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "eaf3670752dfbd2dbcefcc87c39c8ab2b63ba5ad2bd99c7425be15b93afc0fd1",
+        "sha256_in_prefix": "eaf3670752dfbd2dbcefcc87c39c8ab2b63ba5ad2bd99c7425be15b93afc0fd1",
+        "size_in_bytes": 120103
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/__pycache__/callback.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "72f39759974bbf8a8afeb644657253d7d32cd4d2fefb0817a34a523d11d5bb07",
+        "sha256_in_prefix": "72f39759974bbf8a8afeb644657253d7d32cd4d2fefb0817a34a523d11d5bb07",
+        "size_in_bytes": 10725
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/__pycache__/compat.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "60206e125277569fdda65467bda15b216ca02b3b7fa3af0285c0b9f8c38b3248",
+        "sha256_in_prefix": "60206e125277569fdda65467bda15b216ca02b3b7fa3af0285c0b9f8c38b3248",
+        "size_in_bytes": 4078
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/__pycache__/dask.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7944bf2cefb6bd50f901eb035e83b67fc3f096498d32c7db29afe97433bdebd0",
+        "sha256_in_prefix": "7944bf2cefb6bd50f901eb035e83b67fc3f096498d32c7db29afe97433bdebd0",
+        "size_in_bytes": 42025
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/__pycache__/engine.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "243f05abb193e77b05b568de6c02b504b807bfd56f713ab982a7b1e1a3689193",
+        "sha256_in_prefix": "243f05abb193e77b05b568de6c02b504b807bfd56f713ab982a7b1e1a3689193",
+        "size_in_bytes": 25941
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/__pycache__/libpath.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "bd4253489a83ab855de3de225d3c7c2a068c5314a30c400ddd0386c804674dfe",
+        "sha256_in_prefix": "bd4253489a83ab855de3de225d3c7c2a068c5314a30c400ddd0386c804674dfe",
+        "size_in_bytes": 1567
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/__pycache__/plotting.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "63b366bd4b6bc236df24093184268fd5a67dce0f8efa8e9f5a31692e8423f2be",
+        "sha256_in_prefix": "63b366bd4b6bc236df24093184268fd5a67dce0f8efa8e9f5a31692e8423f2be",
+        "size_in_bytes": 23057
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/__pycache__/sklearn.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "07e9b08b73bdb169f147e002dce9f37fabbae6d002cca1f06b7365346fd923a3",
+        "sha256_in_prefix": "07e9b08b73bdb169f147e002dce9f37fabbae6d002cca1f06b7365346fd923a3",
+        "size_in_bytes": 42374
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/basic.py",
+        "path_type": "hardlink",
+        "sha256": "a162e9022e9ab151e19f395ad233c1befed048130a1e481fedb56683dc08a150",
+        "sha256_in_prefix": "a162e9022e9ab151e19f395ad233c1befed048130a1e481fedb56683dc08a150",
+        "size_in_bytes": 166034
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/callback.py",
+        "path_type": "hardlink",
+        "sha256": "c9f6c658185d1ecaefb2c34ef45f1a2be7636ba4ef54060720144eea8b4fcc30",
+        "sha256_in_prefix": "c9f6c658185d1ecaefb2c34ef45f1a2be7636ba4ef54060720144eea8b4fcc30",
+        "size_in_bytes": 11220
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/compat.py",
+        "path_type": "hardlink",
+        "sha256": "7b86083b0b8bfce9c4d22d930ebf619a448c4056a85b2379f9dc66d7415ce771",
+        "sha256_in_prefix": "7b86083b0b8bfce9c4d22d930ebf619a448c4056a85b2379f9dc66d7415ce771",
+        "size_in_bytes": 4558
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/dask.py",
+        "path_type": "hardlink",
+        "sha256": "f5dba216bd949a8eb6c62273b9ab64b3664bea0c643c240dce2d7db5ee76aeaa",
+        "sha256_in_prefix": "f5dba216bd949a8eb6c62273b9ab64b3664bea0c643c240dce2d7db5ee76aeaa",
+        "size_in_bytes": 65031
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/engine.py",
+        "path_type": "hardlink",
+        "sha256": "e340d74def79aa6461817ad04bec0786438c98caf3eccb1133b5d861e622d8b3",
+        "sha256_in_prefix": "e340d74def79aa6461817ad04bec0786438c98caf3eccb1133b5d861e622d8b3",
+        "size_in_bytes": 32995
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/lib_lightgbm.so",
+        "path_type": "hardlink",
+        "sha256": "4adb0a1971c3cb172a2eb561f7b371fb67b85ecd3595835f9dad33d87f5ae632",
+        "sha256_in_prefix": "4adb0a1971c3cb172a2eb561f7b371fb67b85ecd3595835f9dad33d87f5ae632",
+        "size_in_bytes": 3496032
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/libpath.py",
+        "path_type": "hardlink",
+        "sha256": "333035ed71b3d17dc1f1f73770c7d80b1f98acbd0dbcd9dba4a9925019952308",
+        "sha256_in_prefix": "333035ed71b3d17dc1f1f73770c7d80b1f98acbd0dbcd9dba4a9925019952308",
+        "size_in_bytes": 1449
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/plotting.py",
+        "path_type": "hardlink",
+        "sha256": "c2059fffc044a8a7bf6f879d871dfa0be64c0755d72b083ad9f50f28e693db91",
+        "sha256_in_prefix": "c2059fffc044a8a7bf6f879d871dfa0be64c0755d72b083ad9f50f28e693db91",
+        "size_in_bytes": 27302
+      },
+      {
+        "_path": "lib/python3.10/site-packages/lightgbm/sklearn.py",
+        "path_type": "hardlink",
+        "sha256": "1d7daa33e3ea13239f89d1657a82d3785d11351897c40c639f22c5c17f3cd5fd",
+        "sha256_in_prefix": "1d7daa33e3ea13239f89d1657a82d3785d11351897c40c639f22c5c17f3cd5fd",
+        "size_in_bytes": 52983
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "lightgbm",
+  "sha256": "122af2d61d30259d5b4237e85bff281837f99a1a325624b79dbb21a10a716143",
+  "size": 1112051,
+  "subdir": "osx-arm64",
+  "timestamp": 1641600510373,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/lightgbm-3.3.2-py310h9799b42_0.tar.bz2",
+  "version": "3.3.2"
+}

@@ -1,0 +1,10 @@
+prefix=/Users/efwerr/UPCmasters/HackUPC/Mundimoto/env
+exec_prefix=${prefix}
+includedir=/Users/efwerr/UPCmasters/HackUPC/Mundimoto/env/include
+libdir=/Users/efwerr/UPCmasters/HackUPC/Mundimoto/env/lib
+
+Name: libdeflate
+Description: Fast implementation of DEFLATE, zlib, and gzip
+Version: 1.10
+Libs: -L${libdir} -ldeflate
+Cflags: -I${includedir}

@@ -1,0 +1,37 @@
+{
+  "build": "cpu_py310h1b73f8b_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "llvm-openmp >=11.1.0",
+    "py-xgboost 1.5.1 cpu_py310ha244a38_2",
+    "python >=3.10,<3.11.0a0",
+    "python_abi 3.10.* *_cp310"
+  ],
+  "extracted_package_dir": "/Users/efwerr/miniforge3/pkgs/xgboost-1.5.1-cpu_py310h1b73f8b_2",
+  "features": "",
+  "files": [],
+  "fn": "xgboost-1.5.1-cpu_py310h1b73f8b_2.tar.bz2",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "/Users/efwerr/miniforge3/pkgs/xgboost-1.5.1-cpu_py310h1b73f8b_2",
+    "type": 1
+  },
+  "md5": "9bb4e120cfb92816e5e6277148d84458",
+  "name": "xgboost",
+  "package_tarball_full_path": "/Users/efwerr/miniforge3/pkgs/xgboost-1.5.1-cpu_py310h1b73f8b_2.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "xgboost",
+  "sha256": "7d0fdec09f6049fdc130145580c1f134580dfb3ec2e815ff7edbf84431b16a34",
+  "size": 12540,
+  "subdir": "osx-arm64",
+  "timestamp": 1645119720389,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/xgboost-1.5.1-cpu_py310h1b73f8b_2.tar.bz2",
+  "version": "1.5.1"
+}

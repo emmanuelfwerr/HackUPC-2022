@@ -1,0 +1,129 @@
+{
+  "build": "h0d20362_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "giflib >=5.2.1,<5.3.0a0",
+    "jpeg >=9d,<10a",
+    "libpng >=1.6.37,<1.7.0a0",
+    "libtiff >=4.3.0,<5.0a0",
+    "libwebp-base 1.2.2.*"
+  ],
+  "extracted_package_dir": "/Users/efwerr/miniforge3/pkgs/libwebp-1.2.2-h0d20362_0",
+  "features": "",
+  "files": [
+    "bin/cwebp",
+    "bin/dwebp",
+    "bin/gif2webp",
+    "bin/img2webp",
+    "include/webp/demux.h",
+    "lib/libwebpdemux.2.dylib",
+    "lib/libwebpdemux.a",
+    "lib/libwebpdemux.dylib",
+    "lib/pkgconfig/libwebpdemux.pc",
+    "share/man/man1/gif2webp.1",
+    "share/man/man1/img2webp.1"
+  ],
+  "fn": "libwebp-1.2.2-h0d20362_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/efwerr/miniforge3/pkgs/libwebp-1.2.2-h0d20362_0",
+    "type": 1
+  },
+  "md5": "cb075e1a75ed216a438bdea6b1c787c4",
+  "name": "libwebp",
+  "package_tarball_full_path": "/Users/efwerr/miniforge3/pkgs/libwebp-1.2.2-h0d20362_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/cwebp",
+        "path_type": "hardlink",
+        "sha256": "e414aa4c65d970e213653572a14f722dab1822c41dbe52426ef1301fd4521403",
+        "sha256_in_prefix": "e414aa4c65d970e213653572a14f722dab1822c41dbe52426ef1301fd4521403",
+        "size_in_bytes": 93648
+      },
+      {
+        "_path": "bin/dwebp",
+        "path_type": "hardlink",
+        "sha256": "69c53240a8ab48bb2db99bb9fa1551d049cb9fd13b396ffe3a240371ca276b61",
+        "sha256_in_prefix": "69c53240a8ab48bb2db99bb9fa1551d049cb9fd13b396ffe3a240371ca276b61",
+        "size_in_bytes": 72064
+      },
+      {
+        "_path": "bin/gif2webp",
+        "path_type": "hardlink",
+        "sha256": "83552d497ac66b50678250b9ac18817f12a244a06773e24b1c762bad1d802418",
+        "sha256_in_prefix": "83552d497ac66b50678250b9ac18817f12a244a06773e24b1c762bad1d802418",
+        "size_in_bytes": 72304
+      },
+      {
+        "_path": "bin/img2webp",
+        "path_type": "hardlink",
+        "sha256": "734553c5e623227701732cebb17e036e0afc7d39ed5b38e205637d65a963ec0a",
+        "sha256_in_prefix": "734553c5e623227701732cebb17e036e0afc7d39ed5b38e205637d65a963ec0a",
+        "size_in_bytes": 93312
+      },
+      {
+        "_path": "include/webp/demux.h",
+        "path_type": "hardlink",
+        "sha256": "c37bd27299d984b7d9ee564bf25873f6620a0a6a0975e44adf0abeed628999af",
+        "sha256_in_prefix": "c37bd27299d984b7d9ee564bf25873f6620a0a6a0975e44adf0abeed628999af",
+        "size_in_bytes": 15603
+      },
+      {
+        "_path": "lib/libwebpdemux.2.dylib",
+        "path_type": "hardlink",
+        "sha256": "055adcc8f69d3595fe1ecf5a6059be0d98d339b5cb9ac72c43957e56a2cd4118",
+        "sha256_in_prefix": "055adcc8f69d3595fe1ecf5a6059be0d98d339b5cb9ac72c43957e56a2cd4118",
+        "size_in_bytes": 53056
+      },
+      {
+        "_path": "lib/libwebpdemux.a",
+        "path_type": "hardlink",
+        "sha256": "388fc66bc0eec5134e80e60068ec90d868e1fa118a501654d2fdf78a3a6ced82",
+        "sha256_in_prefix": "388fc66bc0eec5134e80e60068ec90d868e1fa118a501654d2fdf78a3a6ced82",
+        "size_in_bytes": 13040
+      },
+      {
+        "_path": "lib/libwebpdemux.dylib",
+        "path_type": "softlink",
+        "sha256": "055adcc8f69d3595fe1ecf5a6059be0d98d339b5cb9ac72c43957e56a2cd4118",
+        "size_in_bytes": 53056
+      },
+      {
+        "_path": "lib/pkgconfig/libwebpdemux.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/libwebp_1643046958501/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "a6f28d352c070624e4cdad7fe36fde64d421d69a32ae6b33bc442a4544f6d0c3",
+        "sha256_in_prefix": "578d17424433ec9f0066f4b61e3fd59777d33ae4e47b71d69109dae6ace659de",
+        "size_in_bytes": 524
+      },
+      {
+        "_path": "share/man/man1/gif2webp.1",
+        "path_type": "hardlink",
+        "sha256": "19c208659f284d4c815849df21b046b3040c3059fc8d8b67b1fa6ee2d242c0ab",
+        "sha256_in_prefix": "19c208659f284d4c815849df21b046b3040c3059fc8d8b67b1fa6ee2d242c0ab",
+        "size_in_bytes": 5564
+      },
+      {
+        "_path": "share/man/man1/img2webp.1",
+        "path_type": "hardlink",
+        "sha256": "ccc475f73c52e7b4f43917f9e65c7cb0d3cd4376bb057d8d9a812d2383bcde82",
+        "sha256_in_prefix": "ccc475f73c52e7b4f43917f9e65c7cb0d3cd4376bb057d8d9a812d2383bcde82",
+        "size_in_bytes": 3385
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "57aa7db9b0b475aaf53df9f32f9059febae5f0edc907dfcaef5b0925915aab4a",
+  "size": 80827,
+  "subdir": "osx-arm64",
+  "timestamp": 1643047203724,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libwebp-1.2.2-h0d20362_0.tar.bz2",
+  "version": "1.2.2"
+}
