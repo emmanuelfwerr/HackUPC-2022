@@ -23,4 +23,4 @@ for filename in all_files:
 
 df = pd.concat(li, axis=0, ignore_index=True)
 
-df.to_csv('landing/persistent/all_bikez_data.csv', index=False)
+df.to_csv('landing/persistent/bikez_scrape/all_bikez_data.csv', index=False)

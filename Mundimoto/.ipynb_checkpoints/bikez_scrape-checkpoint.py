@@ -120,7 +120,7 @@ def main():
         df_bikez = get_bike_data(bike_links_verified)
 
         # export to csv
-        df_bikez.to_csv('y{}_test.csv'.format(year), index=False)
+        df_bikez.to_csv('landing/temporal/bikez_scrape/y{}_bike_data.csv'.format(year), index=False)
         print('year {} extraction completed!\n'.format(year))
     
 if __name__ == "__main__":

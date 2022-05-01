@@ -22,7 +22,7 @@ for i in bike_brands:
 
 # output to csv as dataframe
 bikez_brands_df = pd.DataFrame(bikez_brands, columns=['Brand'])
-bikez_brands_df.to_csv('landing/persistent/bikez_brands_data.csv', index=False)
+bikez_brands_df.to_csv('landing/persistent/bikez_scrape/bikez_brands.csv', index=False)
 
 
     

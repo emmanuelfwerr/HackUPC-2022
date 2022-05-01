@@ -16,7 +16,7 @@ python bikez_merge.py
 
 # data preprocessing and export to formatted zone
 echo "Preprocessing and exporting to formatted zone"
-python bikez_wrangling.py
+python bikez_wrangle.py
 
 # exploring and modelling in the exploitation zone
 echo "Exploring and modelling in the exploitation zone"
