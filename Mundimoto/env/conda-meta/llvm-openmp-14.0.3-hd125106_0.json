@@ -1,0 +1,82 @@
+{
+  "build": "hd125106_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [
+    "openmp 14.0.3|14.0.3.*"
+  ],
+  "depends": [],
+  "extracted_package_dir": "/Users/efwerr/miniforge3/pkgs/llvm-openmp-14.0.3-hd125106_0",
+  "features": "",
+  "files": [
+    "include/omp-tools.h",
+    "include/omp.h",
+    "include/ompt.h",
+    "lib/clang/14.0.3/include/omp.h",
+    "lib/libiomp5.dylib",
+    "lib/libomp.dylib"
+  ],
+  "fn": "llvm-openmp-14.0.3-hd125106_0.tar.bz2",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "link": {
+    "source": "/Users/efwerr/miniforge3/pkgs/llvm-openmp-14.0.3-hd125106_0",
+    "type": 1
+  },
+  "md5": "be027885085423076ace5456a068dc6b",
+  "name": "llvm-openmp",
+  "package_tarball_full_path": "/Users/efwerr/miniforge3/pkgs/llvm-openmp-14.0.3-hd125106_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/omp-tools.h",
+        "path_type": "hardlink",
+        "sha256": "c341fb7c97975911dacd5a205d98a4538c5ef3024f8ea5ceaeaa44bb7764730a",
+        "sha256_in_prefix": "c341fb7c97975911dacd5a205d98a4538c5ef3024f8ea5ceaeaa44bb7764730a",
+        "size_in_bytes": 48958
+      },
+      {
+        "_path": "include/omp.h",
+        "path_type": "hardlink",
+        "sha256": "2f66990422ae7bfa7bb4728d65aa550e9fe73e4c24207d52b97d189c6b05db14",
+        "sha256_in_prefix": "2f66990422ae7bfa7bb4728d65aa550e9fe73e4c24207d52b97d189c6b05db14",
+        "size_in_bytes": 23553
+      },
+      {
+        "_path": "include/ompt.h",
+        "path_type": "hardlink",
+        "sha256": "c341fb7c97975911dacd5a205d98a4538c5ef3024f8ea5ceaeaa44bb7764730a",
+        "sha256_in_prefix": "c341fb7c97975911dacd5a205d98a4538c5ef3024f8ea5ceaeaa44bb7764730a",
+        "size_in_bytes": 48958
+      },
+      {
+        "_path": "lib/clang/14.0.3/include/omp.h",
+        "path_type": "hardlink",
+        "sha256": "2f66990422ae7bfa7bb4728d65aa550e9fe73e4c24207d52b97d189c6b05db14",
+        "sha256_in_prefix": "2f66990422ae7bfa7bb4728d65aa550e9fe73e4c24207d52b97d189c6b05db14",
+        "size_in_bytes": 23553
+      },
+      {
+        "_path": "lib/libiomp5.dylib",
+        "path_type": "softlink",
+        "sha256": "07854052318024abee673f1efc812a55a842bda7028e7290e6fdc3b638619fe0",
+        "size_in_bytes": 777552
+      },
+      {
+        "_path": "lib/libomp.dylib",
+        "path_type": "hardlink",
+        "sha256": "07854052318024abee673f1efc812a55a842bda7028e7290e6fdc3b638619fe0",
+        "sha256_in_prefix": "07854052318024abee673f1efc812a55a842bda7028e7290e6fdc3b638619fe0",
+        "size_in_bytes": 777552
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "03bf2d135bf3f8b5e8d0899c27bedc646cefafdde0eadd0860a90f784b1569a6",
+  "size": 304111,
+  "subdir": "osx-arm64",
+  "timestamp": 1651286103993,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/llvm-openmp-14.0.3-hd125106_0.tar.bz2",
+  "version": "14.0.3"
+}
